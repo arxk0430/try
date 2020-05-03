@@ -1,2 +1,2 @@
 # try
-![](https://github.com/csci3251-2020/project-team-m/workflows/CI/badge.svg)
+<p>![](https://github.com/csci3251-2020/project-team-m/workflows/CI/badge.svg)</p>
